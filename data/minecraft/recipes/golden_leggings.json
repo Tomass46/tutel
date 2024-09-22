@@ -1,23 +1,23 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
+        "#gG",
         "g g",
-        "gGg",
-        "gig"
+        "g g"
     ],
     "key": {
+        "#": {
+            "item": "minecraft:nether_brick"
+        },
         "g": {
             "item": "minecraft:gold_ingot"
         },
         "G": {
-            "item": "minecraft:gold_block"
-        },
-        "i": {
-            "item": "minecraft:iron_ingot"
+            "item": "minecraft:glowstone_dust"
         }
     },
     "result": {
-        "item": "minecraft:golden_chestplate",
+        "item": "minecraft:golden_leggings",
         "count": 1
     },
     "group": "nether"
