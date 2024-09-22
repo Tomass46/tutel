@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#N#",
+        "WHE",
+        "#/#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:slime_ball"
+        },
+        "N": {
+            "item": "minecraft:nether_wart"
+        },
+        "W": {
+            "item": "minecraft:wither_rose"
+        },
+        "H": {
+            "item": "minecraft:heart_of_the_sea"
+        },
+        "E": {
+            "item": "minecraft:ender_pearl"
+        },
+        "/": {
+            "item": "minecraft:blaze_rod"
+        }
+    },
+    "result": {
+        "item": "minecraft:ender_eye",
+        "count": 3
+    },
+    "group": "end"
+}

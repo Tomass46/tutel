@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " n ",
+        "GEG",
+        "DNL"
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "G": {
+            "item": "minecraft:gold_block"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        },
+        "N": {
+            "item": "minecraft:nautilus_shell"
+        },
+        "L": {
+            "item": "minecraft:lapis_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:enchanted_golden_apple",
+        "count": 2
+    },
+    "group": "end"
+}

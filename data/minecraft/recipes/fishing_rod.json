@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #C",
+        "R#S",
+        "# V"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bamboo"
+        },
+        "C": {
+            "item": "minecraft:cobweb"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "V": {
+            "item": "minecraft:sea_pickle"
+        }
+    },
+    "result": {
+        "item": "minecraft:fishing_rod",
+        "count": 1
+    }
+}

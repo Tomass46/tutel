@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:book"
+        },
+        {
+            "item": "minecraft:grindstone"
+        },
+        {
+            "item": "minecraft:diamond"
+        },
+        {
+            "item": "minecraft:obsidian"
+        },
+        {
+            "item": "minecraft:obsidian"
+        },
+        {
+            "item": "minecraft:iron_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:stonecutter",
+        "count": 1
+    },
+    "group": "instruments"
+}

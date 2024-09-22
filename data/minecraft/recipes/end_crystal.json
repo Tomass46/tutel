@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "#Z#",
+        "OCO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:tinted_glass"
+        },
+        "G": {
+            "item": "minecraft:ghast_tear"
+        },
+        "Z": {
+            "item": "minecraft:golden_apple"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "C": {
+            "item": "minecraft:crying_obsidian"
+        }
+    },
+    "result": {
+        "item": "minecraft:end_crystal",
+        "count": 1
+    },
+    "group": "decoration blocks"
+}
