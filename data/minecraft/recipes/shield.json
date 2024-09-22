@@ -20,5 +20,5 @@
         "item": "minecraft:shield",
         "count": 1
     },
-    "group": "zbrane"
+    "group": "hp"
 }
