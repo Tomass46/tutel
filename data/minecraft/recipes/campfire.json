@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stick"
+        },
+        {
+            "item": "minecraft:string"
+        },
+        {
+            "item": "minecraft:flint"
+        },
+        {
+            "item": "minecraft:cobblestone"
+        },
+        {
+            "item": "minecraft:oak_log"
+        },
+        {
+            "item": "minecraft:coal_block"
+        },
+        {
+            "item": "minecraft:oak_log"
+        }
+    ],
+    "result": {
+        "item": "minecraft:campfire",
+        "count": 1
+    }
+}

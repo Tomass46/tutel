@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "iAi",
+        "iSi"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_nugget"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "A": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "S": {
+            "item": "minecraft:slime_ball"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_chestplate",
+        "count": 1
+    }
+}
