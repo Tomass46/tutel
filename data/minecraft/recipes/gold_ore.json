@@ -1,9 +1,9 @@
 {
     "type": "minecraft:smelting",
     "ingredient": {
-        "item": "minecraft:deepslate_iron_ore"
+        "item": "minecraft:deepslate_gold_ore"
     },
-    "result": "minecraft:iron_nugget",
+    "result": "minecraft:gold_nugget",
     "experience": 1,
     "cookingtime": 700
 }

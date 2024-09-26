@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#O#",
+        "IFI",
+        "CWC"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "O": {
+            "item": "minecraft:oak_fence"
+        },
+        "I": {
+            "item": "minecraft:iron_trapdoor"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        },
+        "C": {
+            "item": "minecraft:coal_block"
+        },
+        "W": {
+            "item": "minecraft:campfire"
+        }
+    },
+    "result": {
+        "item": "minecraft:smoker",
+        "count": 1
+    }
+}

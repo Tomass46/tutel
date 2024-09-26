@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smelting",
     "ingredient": {
-        "item": "minecraft:deepslate_iron_ore"
+        "item": "minecraft:iron_ore"
     },
     "result": "minecraft:iron_nugget",
     "experience": 1,
