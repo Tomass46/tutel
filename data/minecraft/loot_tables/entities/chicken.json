@@ -8,8 +8,8 @@
             "entries": [
                 {
                     "type": "item",
-                    "weight": 1,
-                    "name": "minecraft:leather",
+                    "weight": 2,
+                    "name": "minecraft:chicken",
                     "functions": [
                         {
                             "function": "set_count",
@@ -17,52 +17,34 @@
                                 "min": 0,
                                 "max": 1
                             }
-                        },
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 2,
+                    "name": "minecraft:feather",
+                    "functions": [
                         {
-                            "function": "looting_enchant",
+                            "function": "set_count",
                             "count": {
                                 "min": 0,
                                 "max": 2
-                            },
-                            "limit": 3
-                        }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "weight": 1,
-                    "name": "minecraft:rotten_flesh",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 1,
-                                "max": 2
                             }
-                        },
-                        {
-                            "function": "looting_enchant",
-                            "count": -2,
-                            "limit": 1
                         }
                     ]
                 },
                 {
                     "type": "item",
                     "weight": 1,
-                    "name": "minecraft:beef",
+                    "name": "minecraft:egg",
                     "functions": [
                         {
-                            "function": "looting_enchant",
+                            "function": "set_count",
                             "count": {
                                 "min": 1,
-                                "max": 2
-                            },
-                            "limit": 4
-                        },
-                        {
-                            "function": "set_count",
-                            "count": 0
+                                "max": 4
+                            }
                         }
                     ]
                 }

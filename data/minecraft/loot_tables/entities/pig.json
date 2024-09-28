@@ -9,28 +9,6 @@
                 {
                     "type": "item",
                     "weight": 1,
-                    "name": "minecraft:leather",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 0,
-                                "max": 1
-                            }
-                        },
-                        {
-                            "function": "looting_enchant",
-                            "count": {
-                                "min": 0,
-                                "max": 2
-                            },
-                            "limit": 3
-                        }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "weight": 1,
                     "name": "minecraft:rotten_flesh",
                     "functions": [
                         {
@@ -50,7 +28,7 @@
                 {
                     "type": "item",
                     "weight": 1,
-                    "name": "minecraft:beef",
+                    "name": "minecraft:porkchop",
                     "functions": [
                         {
                             "function": "looting_enchant",
