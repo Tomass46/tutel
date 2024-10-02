@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+        "item": "minecraft:deepslate_iron_ore"
+    },
+    "result": "minecraft:iron_nugget",
+    "experience": 5,
+    "cookingtime": 500,
+    "group": "upgrade"
+}
