@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B ",
+        "# n",
+        "#B "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:chain"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:bow",
+        "count": 1
+    }
+}

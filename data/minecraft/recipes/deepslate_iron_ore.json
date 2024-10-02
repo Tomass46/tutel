@@ -4,7 +4,6 @@
         "item": "minecraft:deepslate_iron_ore"
     },
     "result": "minecraft:iron_nugget",
-    "experience": 5,
-    "cookingtime": 1000,
-    "group": "upgrade"
+    "experience": 1,
+    "cookingtime": 700
 }

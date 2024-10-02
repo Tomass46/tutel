@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "SVD",
+        "iMi"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:brick_wall"
+        },
+        "S": {
+            "item": "minecraft:snow_block"
+        },
+        "V": {
+            "item": "minecraft:smoker"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "M": {
+            "item": "minecraft:magma_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:blast_furnace",
+        "count": 1
+    }
+}
